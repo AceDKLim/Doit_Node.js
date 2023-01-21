@@ -2,7 +2,7 @@
 
 ![](https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dAhYb_1554173468595/coverImage.png?_=1554261711057)
 
-## [0장 - 노드로 만들 수 있는 대표적인 서버와 용도](C0.md)
+## [0장 - 노드로 만들 수 있는 대표적인 서버와 용도](c0/C0.md)
 
 ## [1장 - 노드에 대해 알아보고 개발 도구 설치하기](C1.md)
 
